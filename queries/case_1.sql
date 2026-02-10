@@ -99,7 +99,7 @@ FROM cumulative_spend_pctg
 
 /*
 
-Basket Analysis (Self-Join)
+Basket Analysis
 
 Task
 Find the top 10 most frequent product pairs bought together in the same order.
